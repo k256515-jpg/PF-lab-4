@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	double a;
+	int a;
 	printf("enter your attendance: ",a);
 	scanf("%d",&a);
 	if(a>75){
